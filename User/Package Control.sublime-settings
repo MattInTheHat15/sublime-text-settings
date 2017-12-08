@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"Git",
 		"Material Theme",
 		"Package Control",
 		"Pylinter",
