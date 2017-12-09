@@ -1,4 +1,5 @@
 [
     { "keys": ["ctrl+alt+right"], "command": "next_view" },
     { "keys": ["ctrl+alt+left"], "command": "prev_view" },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} }
 ]
